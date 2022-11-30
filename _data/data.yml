@@ -7,61 +7,77 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yes sir!
-    tagline: Full Stack Slave
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Christian Dassy
+    tagline: Network Architect
+    avatar: 3b89e5e.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: cdassy@inxbit.net
+    phone: +1 (514) 667-9887
+    timezone: America/Montreal Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: inxbit.com #do not add http://
+    linkedin: christiandassy
+    xing: 
+    github: nzkller
     telegram: # add your nickname without '@' sign
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    bitbucket: 
+    twitter: '@christiandassy'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://www.christiandassy.com/images/christiandassy.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: French
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Server and Network Automation
+          link: https://docs.ansible.com/
 
-        - item: Snowboarding
-          link:
+        - item: Kubernetes
+          link: https://k3s.io/
 
-        - item: Cooking
-          link:
+        - item: Home Lab / Self-Hosted
+          link: https://github.com/awesome-selfhosted/awesome-selfhosted
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      »10+ years of experience in the management and automation of networks (LAN, WAN and wireless) telecommunications and Data Centers
+      »5+ years of experience in ISP environments driven by MPLS cores, routing protocols like BGP, MP-BGP, OSPF, BGP4+, VPNv6 and Data Centers connectivity over L2VPN and L3VPN
+      »5+ years of experience in security enterprise environments driven by Next-Generation Firewalls, SSL VPNs and Dynamic VPNs technologies, security proxies, IDS and IPS systems, load balancers and public DNS servers.
+      »Bachelor's degree in Electronics Engineering with a Master‘s degree in Telecommunications (Graduated with Honours)
+
+      »Cisco CCNA, Cisco CCNP Switch Exam Passed (Until July 2019)
+      »The SIP School SSCA "SIP School Certified Associate"
+      »Proficient in the design, integration, operation, automation and support of data networks
+      »Administration of networking infrastructure (Cisco, Juniper, Dell, Arista and Brocade)
+      »Installation, configuration and monitoring of firewalls (Cisco ASA, Juniper SRX, Check Point)
+      »Solid Experience in the management of Cisco Catalyst/Nexus & Juniper MX/EX/QFX platforms
+      »Proficiency in Linux (CentOS, Ubuntu) and Windows
+
+      »Comprehensive knowledge of technologies and protocols such as: SD-WAN, ZScaler, Ansible, Anti-DDoS, TCP/IP, OSPF, EIGRP, BGP, RIP, MPLS, VPLS, DIA, VRF, HSRP, VRRP, GLBP, NAT, STP, L2VPN, L3VPN, 802.1s, 802.1w, LACP/PAgP, QoS, VoIP, SNMP, Netflow, CheckMK, Observium, Syslog, Squid Proxy, WebTitan Proxy, BIG-IP F5 Load Balancers, Syslog, RADIUS/TACACS+, Wireshark, tcpdump, HTTP, LDAP, DNS, DHCP, IPAM, NTP, 802.1q, 802.1ad, VTP, 802.11x, WDS, VPN, SSL VPN, APACHE, SSL, IPS/IDS, IPsec, RSA
+
+      »Experience with Virtual Servers, Containers, Container Orchestration, Automation
+      »Installation and maintenance of structured cabling and network infrastructure
+      »Expertise in project management (cost, resource and supply control)
+
+      »Committed, ingenious, strong ability to solve complex problems and to work under pressure
+      »Autonomous, pragmatic, proactive, meticulous and effective communicator
+
 education:
     title: Education
     info:
