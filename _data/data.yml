@@ -290,23 +290,6 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-education:
-    title: Education
-    info:
-      - degree: MSc in Telematics
-        university: Simon Bolivar University - Venezuela
-        time: 2011 - 2013
-        details: |
-            - Graduated with Honors
-            - Thesis approved with Outstanding Mention
-            - Title: Evaluation of a queuing model over a PON network multiplexed in orthogonal frequency and wavelength (WDM-OFDMA-PON)
-      - degree: BSc in Electronics Engineering, Telecommunications
-        university: Simon Bolivar University - Venezuela
-        time: 2004 - 2009
-        details: |
-            - Internship Implementing a NMS for the YPERGAS Network in 2008
-            - Design, centralization and implementation of a Network Management System YPERGAS, Department of Information Technology - Venezuela
-
 publications:
     title: Publications
     intro: |
