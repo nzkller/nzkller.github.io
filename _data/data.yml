@@ -96,7 +96,7 @@ education:
       - degree: MSc in Telematics
         university: Simon Bolivar University
         time: 2011 - 2013
-        details:
+        details: |
             - Graduated with Honors
             - Thesis approved with Outstanding Mention
             - Title: Evaluation of a queuing model over a PON network multiplexed in orthogonal frequency and wavelength (WDM-OFDMA-PON)
@@ -104,9 +104,8 @@ education:
         university: Simon Bolivar University
         time: 2004 - 2009
         details: |
-            - Graduated with Honors
-            - Thesis approved with Outstanding Mention
-            - Title: Evaluation of a queuing model over a PON network multiplexed in orthogonal frequency and wavelength (WDM-OFDMA-PON)
+            - Internship Implementing a NMS for the YPERGAS Network in 2008
+            - Design, centralization and implementation of a Network Management System YPERGAS, Department of Information Technology - Venezuela
 experiences:
     title: Experiences
     info:
