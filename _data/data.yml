@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Christian Dassy
@@ -87,34 +87,26 @@ career-profile:
       • Expertise in project management (cost, resource and supply control)
 
       • Committed, ingenious, strong ability to solve complex problems and to work under pressure
-      
+
       • Autonomous, pragmatic, proactive, meticulous and effective communicator
 
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Telematics
+        university: Simon Bolivar University
+        time: 2011 - 2013
+        details:
+            - Graduated with Honors
+            - Thesis approved with Outstanding Mention
+            - Title: Evaluation of a queuing model over a PON network multiplexed in orthogonal frequency and wavelength (WDM-OFDMA-PON)
+      - degree: BSc in Electronics Engineering, Telecommunications
+        university: Simon Bolivar University
+        time: 2004 - 2009
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Graduated with Honors
+            - Thesis approved with Outstanding Mention
+            - Title: Evaluation of a queuing model over a PON network multiplexed in orthogonal frequency and wavelength (WDM-OFDMA-PON)
 experiences:
     title: Experiences
     info:
