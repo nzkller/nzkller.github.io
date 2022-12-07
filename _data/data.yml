@@ -104,49 +104,145 @@ education:
         university: Simon Bolivar University - Venezuela
         time: 2004 - 2009
         details: |
-            - Internship Implementing a NMS for the YPERGAS Network in 2008
+            - Internship Implementing a NMS for the YPERGAS (Total Oil) Network in 2008
             - Design, centralization and implementation of a Network Management System YPERGAS, Department of Information Technology - Venezuela
             
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: SD-WAN & WAN ARCHITECT 
+        time: Feb 2019 - Present
+        company: Bombardier Aerospace - Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          - Analyze customer business and IT challenges to design a comprehensive solution that integrates smoothly into their environment
+          - Assist with network site specific SD-WAN transformation planning and data capture, including WAN circuits information
+          - Design client's WAN network and transition strategies
+          - Conceive Low-Level SD-WAN design and support the detailed documentation effort
+          - Review WAN links performance, report and recommend WAN transport links resizing when required, to support customer throughput levels
+          - Coordinate with client’s, IBM's and AT&T's teams supporting the LAN and Firewalls to capture and validate site specific network information required for WAN transformation
+          - Provide overall service management stewardship process support of customers WAN with the objective of high WAN availability, security and proactive performance management in support of IBM’s, AT&T’s contract obligations
+          - Act as a point of escalation, under special requests, to support AT&T, IBM and Bombardier with problem management/determination of chronic recurring issues
+
+      - role: SD-WAN ARCHITECT 
+        time: Nov 2020 - Mar 2022
+        company: Fibrenoire - Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          -	Design client's WAN network and transition strategies while analyzing customer’s business and IT challenges to create a comprehensive solution that integrates smoothly into their environment
+          -	Assist with SD-WAN transformation of major Data Centers and regional Hubs (migration, planning and data capture)
+          -	Conceive Low-Level SD-WAN design and support the detailed documentation effort
+          -	Review WAN links performance, report and recommend WAN transport links addition or resizing when required
+          -	Coordinate with client’s and/or Fibrenoire’s teams supporting the network infrastructure to capture and validate site specific network information required for WAN transformation
+          -	Provide overall service management stewardship process support of customers WAN with the objective of high WAN availability, security, and proactive performance management in support of Fibrenoire’s contract obligations
+          -	Act as a point of escalation, under special requests, to support Fibrenoire with problem management/determination of chronic recurring issues
+
+      - role: SENIOR TELECOM INTEGRATOR
+        time: Oct 2018 - Feb 2019
+        company: Canadian National Railway - Canada
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          -	Drive and Lead Data Center Network Services, along with Data Center Infrastructure Services (IPAM, DHCP, DNS, NTP), Identity & Access Security (Authentication, Authorization & Accounting)
+          -	Contribute to the Data Center Automation using Ansible and REST APIs
+          -	Assist the Core MPLS Team to provide solutions and Data Centers connectivity over the MPLS Core
+          -	Review the solution architecture provided and translate it into High, Low Level Designs and Blueprints, making network redesign recommendations
+          -	Define a deployment strategy and guide other Telecom Integrator(s) through the designed solution addressing any potential issues
+          -	Create, maintain and manage design detailed documentation for Data Center and WAN Solutions
+          -	Ensure that the solution designed meets all business requirements and complies with CN I&T standards (security, architecture, project delivery methodology, SOX, SLO/SLA, among others)
+          -	Determine appropriate resolution/solution of complex problems through root cause analysis and impact analysis for the business 
+
+      - role: TELECOM INTEGRATOR
+        time: Jun 2018 - Sep 2018
+        company: Canadian National Railway - Canada
+        details: |
+          -	Lead the migration of the site-to-site IPsec VPNs to an in-house Juniper SRX Firewall infrastructure for the Business-to-Business solution
+          -	Automate the creation of new or existing site-to-site IPsec VPNs using Ansible to ease and accelerate the delivery of the Business-to-Business connectivity with external partners
+          -	Design and implement network solutions providing MPLS and Access connectivity for Intermodal Yards services, including Automated Gate Systems on the field, among others
+          -	Review the solution architecture provided and translate it into High, Low Level Designs and Blueprints, making network redesign recommendations 
+          -	Establish test plans for the new defined solution, including the certification of the equipment conducting lab tests and logging results
+          -	Ensure that the solution designed meets all business requirements and complies with CN I&T standards (security, architecture, project delivery methodology, SOX, SLO/SLA, among others)
+          -	Coordinate installation with technicians in the field, and support issues during project migration or deployment, capturing and validating network information of the site
+          
+      - role: NETWORK CONSULTANT
+        time: May 2017 - Jun 2018
+        company: Bombardier Aerospace - Canada
+        details: |
+          -	Consult for the Global Operations Security Team that oversees IT security operations across worldwide sites for Bombardier Aerospace
+          -	Manage the global distributed security network comprised of Juniper MX WAN Routers, Juniper SRX and CheckPoint NGX Firewalls, Squid and WebTitan Proxies, BIG-IP F5 load balancers, DNS, DMZ Mail Servers, LDAP, Radius and Juniper SSL VPN concentrators
+          -	Optimize WAN network implementing service provider standards on the INTERNET Routers
+          -	Increase network security by designing and implementing new security and automation solutions
+          -	Assist in transformation and migration of legacy CheckPoint firewall to Juniper SRX Firewall
+          -	Document network diagram changes, method of procedure and knowledge base articles
+          -	Manage network maintenances, monitoring and troubleshooting (System upgrades and patching, incident/problem management and Change Request Management using Service Now)
+          -	Support other groups acting as a point of escalation for complex and business critical issues for services provided by the Global Operations Security Team
+          -	Lead the project WAN Capacity Increase to 10G (Design and deploy the PoC, Implementation of the solution into production environment configuring the Juniper MX 104 WAN Routers, Juniper SRX 4200 Next Generation Firewalls, JUNOS Space Security Director and Cisco Catalyst 3850 Series Switches, along with the migration of the services to the new infrastructure)
+
+      - role: NETWORK ADMINISTRATOR
+        time: Dec 2014 - May 2017
+        company: Internap - Canada
+        details: |
+          -	Manage the global distributed network in more than 15 Data Centers, including the MPLS backbone
+          -	Provide technical solutions to the Cloud Hosting Business Unit, using the MPLS based network
+          -	Ensure the realization of network projects, understanding the needs in compliance with the defined network architecture (Platform based on Cisco 7600 WAN Routers Catalyst 6500 Switches, Juniper WAN Routers MX 960 Series, Juniper Switches EX 2000 Series, EX 3000 Series, EX 4000 Series, QFX 5000 Series and QFX 10000 Series and Juniper SRX 200 Series Firewalls)
+          -	Support other groups with services provided by the IP network and train the technicians on the latest technologies in the Data Center
+          -	Next generation Data Center design (Deployment of the PoC for Data Center Deployment with EVPN/VXLAN using Juniper Routers MX 960, Juniper Switches QFX 5000 and 10000 Series)
+          -	Responsible of the MPLS Network and Data Center Infrastructure
+          -	Troubleshoot network failures within the time required to ensure SLOs/SLAs of the customers
+
+      - role: NOC SPECIALIST
+        time: May 2014 - Nov 2014
+        company: COGECO DATA SERVICES - Canada
+        details: |
+          -	Maintain and support client’s WAN circuits running on Cisco ASR 9000 Series, Cisco Catalyst 3750/6500 Series, Juniper MX Series Routers and Zyxel GPON Small Business GPON Solution
+          -	Troubleshoot core network technologies (DWDM, TDM/SONET, VPLS, MPLS, OSPF and BGP) 
+          -	Provide new services and implement changes based on customer needs and demands, including customer’s migrations to the new MPLS network for high WAN availability
+          -	Manage tickets and fieldwork through incident resolution processes, including documentation and follow-up to ensure MTTRs and SLAs to clients
+          -	Coordinate the work of the field services team, partners and contractors to provision and test new customer services as well as resolve customer issues with services
+          -	Be safety and control conscious and aware of established control procedures, laws and regulations
+
+      - role: PROCUREMENT MANAGER
+        time: Nov 2011 - Dec 2013
+        company: CCS LIMITED - Venezuela
+        details: |
+          -	Manage teams of Certification of Suppliers and Subcontractors, Outsourcing Execution and Procurement of Equipment and Materials, including the negotiation of contracts over $ 1MM US
+          -	Control the cost of engineering services and the budget for tenders in Venezuela and Central America with amounts up to $ 40MM US
+          -	Develop subcontractor's management strategy reaching an increase of 2000%
+          -	Coordinate the implementation and administration of projects such as NGN, IPTV, DTH, IPDSLAM and construction of 2G/3G base stations with fiber optics and microwave technology
+
+      - role: PROCUREMENT COORDINATOR
+        time: Jan 2011 - Nov 2011
+        company: ZTE - Venezuela
+        details: |
+          -	Coordinate the management of resources within projects, including the available budget
+          -	Administer the issuance of purchase orders and payments to subcontractors
+          -	Manage contracts: The development and approval of contractual agreements for presentation to senior management for project such as NGN, IPTV, DTH, IPDSLAM and construction of 2G/3G base stations with fiber optics and microwave technology
+
+      - role: NETWORK TEAM LEAD
+        time: Jul 2010 - Dec 2010
+        company: CORPORATION BCD - Venezuela
+        details: |
+          -	Manage the supply of computer and network equipment, giving direct technical insight for the purchasing decisions
+          -	Administer the Cisco network infrastructure, including the edge security network. Infrastructure was comprised of Cisco Catalyst Switches 2960 and Cisco 3800 Series Routers
+          -	Inventory of the hardware supplies for the installation of the network infrastructure and IT services
+          -	Provide technical assistance to more than 30 users and integrate the network with the hardware and software used by the company
+          -	Generate and maintain policies, procedures, technical documentation and schematics for the Department of Information Technology
+
+      - role: TELECOMMUNICATION ENGINEER
+        time: Nov 2009 - Jul 2010
+        company: YPERGAS (Total Oil) - Venezuela
+        details: |
+          -	Administer the internal voice and data network of up to 20 Cisco switches, 5 Cisco routers, 4 Cisco wireless access points, 4 wireless outdoor bridges and 3 PBX systems
+          -	Maintain a 40+ Km fiber optics network to maximize 24x7 service availability
+          -	Manage the edge security network which included 2 firewalls with VPN functionality, proxy server, anti-spam mail relay server and NMS server
+          -	Generate and maintain policies, procedures, technical solutions documentation, and schematics for the Department of Information Technology 
+          -	Provide technical assistance to over 150 users and observe the operation of the network equipment to ensure that they satisfy all the specifications 
+
+      - role: NETWORK ENGINEER
+        time: Jan 2009 - Nov 2009
+        company: CORPORATION BCD - Venezuela
+        details: |
+          -	Administer the Cisco network infrastructure, including the perimeter security network. The infrastructure was comprised of Cisco Catalyst Switches 2960 and Cisco 3800 Series Routers
+          -	Inventory of the hardware supplies for the installation of the network infrastructure and IT services
+          -	Provide technical assistance to more than 20 users
+          -	Generate and maintain documentation and schematics for the IT Department
+
 projects:
     title: Projects
     intro: >
