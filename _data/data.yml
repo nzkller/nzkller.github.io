@@ -15,8 +15,8 @@ sidebar:
     email: cdassy@inxbit.net
     phone: +1 (514) 667-9887
     timezone: America/Montreal Timezone
-    citizenship:
-    website: inxbit.com #do not add http://
+    citizenship: Canadian
+    website: www.inxbit.com #do not add http://
     linkedin: christiandassy
     xing: 
     github: nzkller
@@ -47,8 +47,8 @@ sidebar:
         - item: Server and Network Automation
           link: https://docs.ansible.com/
 
-        - item: Kubernetes
-          link: https://k3s.io/
+        - item: Container Orchestration
+          link: https://docs.docker.com/get-started/orchestration/
 
         - item: Home Lab / Self-Hosted
           link: https://github.com/awesome-selfhosted/awesome-selfhosted
